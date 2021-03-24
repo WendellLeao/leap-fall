@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - "Bot\xE3o"
+  - Spy
+  - "Bot\xE3o2"
+  - Boost_up
+  - Boost_left
+  - SmashSpy
+  - Finish8
+  - ChaoDown
+  - SwapWhite
+  - Botao_lvl10
+  - BotaoSmash
+  - Teste
+  - "Bot\xE3o2_lvl12"
+  - "Bot\xE3o2_lvl_13"
+  - Limites_Espinhos
+  - Finish_2
+  - Finish_3
+  - Finish_4
+  - Finish_5
+  - Finish_6
+  - Finish_7
+  - Finish_8
+  - Finish_9
+  - Finish_10
+  - Finish_12
+  - Finish_13
+  - Finish_14
+  - Finish_11
+  - "Bot\xE3o_lvl_13"
+  - "Bot\xE3o2_lvl_11"
+  - SmashSpy_lvl_11
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
