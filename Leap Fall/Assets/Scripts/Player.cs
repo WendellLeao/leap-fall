@@ -269,6 +269,14 @@ public class Player : MonoBehaviour
             Boost_left_transparence.SetActive(true);
             BoostLeft = true;
         }
+
+        if(collision.gameObject.CompareTag("FinalGameTrigger"))
+        {
+            if(FinalGameMenu.instance != null)
+            {
+                FinalGameMenu.instance.FinishGame();
+            }
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)

@@ -36,6 +36,7 @@ TagManager:
   - "Bot\xE3o_lvl_13"
   - "Bot\xE3o2_lvl_11"
   - SmashSpy_lvl_11
+  - FinalGameTrigger
   layers:
   - Default
   - TransparentFX
